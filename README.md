@@ -125,7 +125,7 @@ Here some personal and university projects (with contributors):
 *Università degli Studi di Salerno*
 - [Ethical Hacking & Penetration Testing](https://github.com/Endless077/)
 - [HPC Project (Game of Life)](https://github.com/Endless077/)
-- [Exploit Education (Fusion04)](https://github.com/Endless077/Exploit-Education-Fusion04))
+- [Exploit Education (Fusion04)](https://github.com/Endless077/Exploit-Education-Fusion04)
 - [IoT Secure Networking](https://github.com/Endless077/IoT_Security_Networking)
 - [HP SBWT Compression](https://github.com/Endless077/HP_SBWT_Compression)
 - [Simple CarROS](https://github.com/Endless077/Simple_CarROS)
