@@ -209,6 +209,7 @@ For support or collaborations, email me at [antonio.garofalo125@gmail.com](mailt
 - "Fsociety" - Mr. Robot
 - "Our democracy has been hacked" - Mr. Robot
 - "Superheroes in New York? Gimme a break." - Stan Lee
+- "Stay hungry, stay foolish" - Steven Paul Jobs (Steve Jobs)
 - "Now I Am Become Death, The Destroyer Of Worlds." - J. Robert Oppenheimer
 - "Remember, remember, the fifth of November" - V for Vendetta (Guy Fawkes)
 
