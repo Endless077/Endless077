@@ -209,6 +209,7 @@ For support or collaborations, email me at [antonio.garofalo125@gmail.com](mailt
 - "Fsociety" - Mr. Robot
 - "Our democracy has been hacked" - Mr. Robot
 - "Superheroes in New York? Gimme a break." - Stan Lee
+- "You are who you choose to be. Superman." - The Iron Giant
 - "Stay hungry, stay foolish" - Steven Paul Jobs (Steve Jobs)
 - "Now I Am Become Death, The Destroyer Of Worlds." - J. Robert Oppenheimer
 - "Remember, remember, the fifth of November" - V for Vendetta (Guy Fawkes)
@@ -223,11 +224,13 @@ Meanwhile, check these out:
 Some Libraries:
 - [Ebook Foundation](https://ebookfoundation.org/)
 - [Library of Babel](https://libraryofbabel.info/)
+- [Internet Archive](https://archive.org/)
 - [The Uncensored Library](https://uncensoredlibrary.com/en)
 - [The WWW Virtual Library](https://vlib.org/)
-- [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+- [The Book](https://www.the-book.it/)
 - [Dark.fail](https://dark.fail/)
-- [Internet Archive](https://archive.org/)
+- [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+
 
 Some Books:
 - Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook - Grant Smith
@@ -244,4 +247,4 @@ Some Books:
 - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian
 - Seriously Good Software - Marco Faella
 
-and other book about IT or Programming language.
+and other book about IT Security.
