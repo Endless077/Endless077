@@ -123,7 +123,7 @@ I'm passionate about all things IT, particularly everything related to the world
 Here some personal and university projects (with contributors):
 
 *Università degli Studi di Salerno*
-- [Ethical Hacking & Penetration Testing](https://github.com/Endless077/)
+- [Static Malware Analysis Automation Framework (SMAAF)](https://github.com/Endless077/SMAAF)
 - [HPC Project (Game of Life)](https://github.com/Endless077/)
 - [Exploit Education (Fusion04)](https://github.com/Endless077/Exploit-Education-Fusion04)
 - [IoT Secure Networking](https://github.com/Endless077/IoT_Security_Networking)
