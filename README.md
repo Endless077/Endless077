@@ -205,17 +205,17 @@ For support or collaborations, email me at [antonio.garofalo125@gmail.com](mailt
   </a>
 </div>
 
-## ⚠️ Some Favorite Quotes
-- "Fsociety" - Mr. Robot
-- "Our democracy has been hacked" - Mr. Robot
-- "Superheroes in New York? Gimme a break." - Stan Lee
-- "You are who you choose to be. Superman." - The Iron Giant
-- "Stay hungry, stay foolish." - Steven Paul Jobs (Steve Jobs)
-- "Dico al mio avversario: Io combatto la tua fede che è contraria alla mia
-  ma sono pronto a battermi fino al prezzo della vita perché tu possa esprimere
-  liberamente il tuo pensiero." - Sandro Pertini
-- "Now I Am Become Death, The Destroyer Of Worlds." - J. Robert Oppenheimer
-- "Remember, remember, the fifth of November" - V for Vendetta (Guy Fawkes)
+# Favorite Quotes
+
+- **"Fsociety"** – *Mr. Robot*
+- **"Our democracy has been hacked."** – *Mr. Robot*
+- **"Superheroes in New York? Gimme a break."** – *Stan Lee*
+- **"You are who you choose to be. Superman."** – *The Iron Giant*
+- **"Stay hungry, stay foolish."** – *Steven Paul Jobs (Steve Jobs)*
+- **"Now I am become Death, the destroyer of worlds."** – *J. Robert Oppenheimer*
+- **"People should not be afraid of their governments, but governments should be afraid of their people."** – *Thomas Jefferson*
+- **"Dico al mio avversario: Io combatto la tua fede che è contraria alla mia, ma sono pronto a battermi fino al prezzo della vita perché tu possa esprimere liberamente il tuo pensiero."** – *Sandro Pertini*
+- **"Remember, remember, the fifth of November."** – *V for Vendetta (Guy Fawkes)*
 
 ## 📚 Recommended Sources
 Contact me for my personal repo with a lot of open-source information. <br/>
